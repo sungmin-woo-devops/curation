@@ -1,6 +1,4 @@
----
-title: DevOps Curation
----
+# DevOps Curation
 
 ## CNCF
 https://www.cncf.io/
@@ -10,56 +8,56 @@ https://github.com/cloudposse
 
 
 ## Kubernetes
-Kubernetes Official - https://github.com/kubernetes/kubernetes
-Kubernetes Official Examples - https://github.com/kubernetes/examples
+1. Kubernetes Official - https://github.com/kubernetes/kubernetes
+2. Kubernetes Official Examples - https://github.com/kubernetes/examples
 
 ## Kuberntes Local Installation
-KinD - https://github.com/kubernetes-sigs/kind
-K3s - https://github.com/k3s-io/k3s
-MiniKube - https://github.com/kubernetes/minikube
+1. KinD - https://github.com/kubernetes-sigs/kind
+2. K3s - https://github.com/k3s-io/k3s
+3. MiniKube - https://github.com/kubernetes/minikube
 
 ## Kubernetes Extensions
-helm - https://github.com/helm/helm
-kubectx - a tool to switch between contexts (clusters) on kubectl faster. - https://github.com/ahmetb/kubectx
-kubespray - https://github.com/kubernetes-sigs/kubespray
-rook - https://github.com/rook/rook
+1. helm - https://github.com/helm/helm
+2. kubectx - a tool to switch between contexts (clusters) on kubectl faster. - https://github.com/ahmetb/kubectx
+3. kubespray - https://github.com/kubernetes-sigs/kubespray
+4. rook - https://github.com/rook/rook
 
 ## Kubernetes Ingress & Ingress Controller
-Kong - Ingress Controller - https://github.com/Kong/kubernetes-ingress-controller
-Nginx ingress : kubernetes-ingress - https://github.com/nginxinc/kubernetes-ingress
-ingeress-nginx: Kubernetes ingress-nginx - https://github.com/kubernetes/ingress-nginx
+1. Kong - Ingress Controller - https://github.com/Kong/kubernetes-ingress-controller
+2. Nginx ingress : kubernetes-ingress - https://github.com/nginxinc/kubernetes-ingress
+3. ingeress-nginx: Kubernetes ingress-nginx - https://github.com/kubernetes/ingress-nginx
 
 ## Kubernetes Dashboard
-lens - https://github.com/lensapp/lens
+1. lens - https://github.com/lensapp/lens
 
 ## Kubernetes - MLOPs
-kubeflow - https://github.com/kubeflow/kubeflow
-kubernetes dashboard -  https://github.com/kubernetes/dashboard
+1. kubeflow - https://github.com/kubeflow/kubeflow
+2. kubernetes dashboard -  https://github.com/kubernetes/dashboard
 
 ## Kubernetes - Deployment Strategies
-https://github.com/ContainerSolutions/k8s-deployment-strategies
+1. https://github.com/ContainerSolutions/k8s-deployment-strategies
 
 ## Kubernetes - gatekeeper
-gatekeeper - https://github.com/open-policy-agent/gatekeeper
+1. gatekeeper - https://github.com/open-policy-agent/gatekeeper
 
-## Kubernetes - EventDrive
-KEDA - https://github.com/open-policy-agent/gatekeeper
+## Kubernetes - EventDriven
+1. KEDA - https://github.com/open-policy-agent/gatekeeper
 
 ---
 
 ## Terraform
-tfenv - https://github.com/tfutils/tfenv
-Terraformer - https://github.com/GoogleCloudPlatform/terraformer
-Terraforming - https://github.com/dtan4/terraforming
-Terracognita - https://github.com/cycloidio/terracognita
+1. tfenv - https://github.com/tfutils/tfenv
+2. Terraformer - https://github.com/GoogleCloudPlatform/terraformer
+3. Terraforming - https://github.com/dtan4/terraforming
+4. Terracognita - https://github.com/cycloidio/terracognita
 
 ---
 
 ## ArgoCD
-Argo-CD - https://github.com/argoproj/argo-cd
-Argo-Workflows - https://github.com/argoproj/argo-workflows
+1. Argo-CD - https://github.com/argoproj/argo-cd
+2. Argo-Workflows - https://github.com/argoproj/argo-workflows
 
 ---
 
 ## OCI
-cri-o - https://github.com/cri-o/cri-o
+1. cri-o - https://github.com/cri-o/cri-o
