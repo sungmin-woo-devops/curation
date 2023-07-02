@@ -51,6 +51,11 @@ https://github.com/cloudposse
 3. Terraforming - https://github.com/dtan4/terraforming
 4. Terracognita - https://github.com/cycloidio/terracognita
 
+### Terraform Cert Prep
+1. https://github.com/ExamProCo/Terraform-Associate-Labs
+2. https://developer.hashicorp.com/terraform/tutorials/certification-003?product_intent=terraform
+3. https://app.exampro.co/student/journey/terraform
+
 ---
 
 ## ArgoCD
